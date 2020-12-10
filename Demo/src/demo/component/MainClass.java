@@ -9,6 +9,7 @@ public class MainClass {
 		System.out.println("Ok 1");
 		System.out.println("Ok 2");
 		System.out.println("Ok 3");
+		System.out.println("Ok 4");
 	}
 
 }
