@@ -12,6 +12,7 @@ public class MainClass {
 		System.out.println("Ok 4");
 		System.out.println("Ok 5");
 		System.out.println("Ok 6");
+		System.out.println("Ok 7");
 	}
 
 }
